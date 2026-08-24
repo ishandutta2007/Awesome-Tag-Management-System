@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Chargebee](https://www.chargebee.com/)**  
-
-  Leading subscription management and monetization platform for mid-market SaaS, supporting complex plans, usage pricing, dunning, and revenue recognition workflows.
-
-
-
-- **[Recurly](https://recurly.com/)**  
-
-  Subscription billing platform optimized for high-volume subscriber management, retention, and intelligent payment recovery.
-
-
-
-- **[Maxio](https://www.maxio.com/)**  
-
-  Billing and financial operations platform for B2B SaaS, combining subscription management with revenue metrics and reporting.
-
-
-
-- **[Paddle](https://www.paddle.com/)**  
-
-  Merchant-of-record platform that handles payments, taxes, and compliance globally for digital products and SaaS.
-
-
-
-- **[Stripe Billing](https://stripe.com/billing)**  
-
-  Developer-first billing engine integrated with Stripe Payments, supporting subscriptions, usage-based pricing, and flexible models.
-
-
-
-- **[Zuora](https://www.zuora.com/)**  
-
-  Enterprise quote-to-cash and subscription billing system of record for large, multi-product revenue operations.
-
-
-
-- **[Billsby](https://www.billsby.com/)**  
-
-  Subscription billing platform focused on simplicity and rapid setup for growing subscription businesses.
-
-
-
-- **[ChargeOver](https://chargeover.com/)**  
-
-  Recurring billing and invoicing solution for service and subscription companies needing flexible payment collection.
-
-
-
-- **[Fusebill](https://www.fusebill.com/)**  
-
-  Subscription billing and revenue management platform for mid-market and enterprise recurring revenue needs.
-
-
-
-- **[Sticky.io](https://www.sticky.io/)**  
-
-  Subscription and recurring commerce platform frequently used in e-commerce and direct-to-consumer models.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Chargebee](https://www.chargebee.com/)** | Leading subscription management and monetization platform for mid-market SaaS, supporting complex plans, usage pricing, dunning, and revenue recognition workflows. | Free Starter plan ($0/mo up to $250k lifetime billing; then 0.75% overage); paid Performance plan starts at **$599/month** (billed annually, includes up to $100k/mo billing + 0.75% overage). | **Free forever** Starter plan for up to $250,000 in cumulative lifetime billing volume (0.75% overage fee applies thereafter); 14-day free trial on higher tiers. |
+| **[Recurly](https://recurly.com/)** | Subscription billing platform optimized for high-volume subscriber management, retention, and intelligent payment recovery. | Starter plan starts at **$249/month** + 0.9% of revenue over $40,000/month (first $40k/month included at no extra charge). | **90-day free trial** for the Starter plan with full core subscription management and sandbox access (no free forever plan). |
+| **[Maxio](https://www.maxio.com/)** | Billing and financial operations platform for B2B SaaS, combining subscription management with revenue metrics and reporting. | Build plan is **$0/month** (developer sandbox); paid Grow plan starts at **$599/month** (billed annually, for up to $100k monthly billing). | **Free forever** "Build" developer sandbox plan (unlimited testing time, full API/SDK access, no live billing); 30-day free trial for the Grow plan. |
+| **[Paddle](https://www.paddle.com/)** | Merchant-of-record platform that handles payments, taxes, and compliance globally for digital products and SaaS. | Pay-as-you-go starting at **5% + $0.50 per successful transaction** (no monthly recurring platform subscription fee). | **Free forever** account with zero monthly platform fees (pay only on successful transactions; includes unlimited sandbox testing environment). |
+| **[Stripe Billing](https://stripe.com/billing)** | Developer-first billing engine integrated with Stripe Payments, supporting subscriptions, usage-based pricing, and flexible models. | Starts at **0.7% of recurring billing volume** (in addition to standard Stripe payment processing fees of 2.9% + $0.30 per transaction). | **Free forever** access with zero monthly recurring base platform fees (includes first 100 million usage meter events/month free and unlimited test mode / sandbox environment). |
+| **[Zuora](https://www.zuora.com/)** | Enterprise quote-to-cash and subscription billing system of record for large, multi-product revenue operations. | Enterprise contracts start at **~$50,000/year** (~$4,166/month, billed annually based on required modules, users, and billing volume). | **No free forever operational tier**; provides free developer sandbox environment access for API/integration testing and free Essentials course access via Zuora University. |
+| **[Billsby](https://www.billsby.com/)** | Subscription billing platform focused on simplicity and rapid setup for growing subscription businesses. | Core plan starts at **$45/month** (+ 0.4% on revenue over $15,000/month); Pro plan starts at **$135/month** (+ 0.5% on revenue over $15,000/month). | **Free forever** testing plan ($0/month with unlimited setup time, full feature access, and no user limits before going live); 30-day free trial on paid plans. |
+| **[ChargeOver](https://chargeover.com/)** | Recurring billing and invoicing solution for service and subscription companies needing flexible payment collection. | Flat-rate plan starts at **$229/month** (includes subscription management, customer portal, accounting sync, and 0% revenue cut). | **14-day free trial** with full sandbox and live testing features (no credit card required; no free forever plan). |
+| **[Fusebill](https://www.fusebill.com/)** | Subscription billing and revenue management platform for mid-market and enterprise recurring revenue needs (now Stax Bill). | Growth plan starts at **$499/month** (billed annually, includes up to $85,000/month in billing volume). | **30-day free trial** / interactive demo sandbox available via sales consultation (no free forever plan). |
+| **[Sticky.io](https://www.sticky.io/)** | Subscription and recurring commerce platform frequently used in e-commerce and direct-to-consumer models. | Entry tier starts at **$250/month** base fee + tiered revenue fee (1.0% on gross volume up to $500k/month, scaling down to 0.25% for >$10M/month). | **14-day free trial** / sandbox access upon request to test subscription flows and campaign configurations (no free forever plan). |
 
 
 
