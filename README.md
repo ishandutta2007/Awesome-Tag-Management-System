@@ -1,6 +1,6 @@
 # Awesome-Tag-Management-System
 
-# Top Tag Management Systems Ecosystem
+## Top Tag Management Systems Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Client-Side & Server-Side Tag Management, Marketing Pixel Control, Consent-Aware Loading & Analytics Orchestration*
 **Last updated: August 2026**
